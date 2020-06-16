@@ -17,3 +17,4 @@ MovieBD.movies[a] = b;
 MovieBD.movies[c] = d;
 
 console.log(MovieBD);
+console.log(MovieBD.pricat);
