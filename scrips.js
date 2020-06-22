@@ -1,3 +1,6 @@
+"use strict";
+
+
 const numberOfFilms = +prompt('Сколько фильмов вы посмотрели?', '');
 
 const MovieBD = {
@@ -33,3 +36,9 @@ i++;
 
 
 console.log(MovieBD);
+
+function calc (a, b){
+    return (a+b);
+}
+console.log(calc(5, 8));
+
